@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/greg/Desktop/jinput.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/greg/Desktop/JInput%202/JInputJoystickTestV2/jinput/jinput_coreapi_javadoc/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/greg/Desktop/RXTX/mfz-rxtx-2.2-20081207-win-x64/RXTXcomm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

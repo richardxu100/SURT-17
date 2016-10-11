@@ -1,0 +1,19 @@
+8-27-16
+---------------
+All Files:
+- Created
+
+9-3-16
+------------------
+Robot_Control:
+- Fixed vertical motor control, created iDontKnowWhyThisWorksButItDo() to manage vertical motors
+- Tweaked vertical motor dead zones
+- Added 2-second delay after setup()
+- Commented out several debugging messages
+- Implemented first draft of claw control by fixing clawIncrement(), changing name to servoIncrement()
+- Deleted redundant armIncrement()
+- Added comments for clarity.
+
+10-10-16
+--------------------
+- Initial GitHub commit
