@@ -1,4 +1,8 @@
-# How to use this repo!
+# SURT-17
+A SURT repository for tutorials on Arduino
+
+
+## Instructions
 1. Import java program "ProtoXBOXSenderSurt"
 2. Import referenced libraries and dll files to Java program
 3. Open Robot_Control in Arduino
